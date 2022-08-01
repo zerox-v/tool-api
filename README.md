@@ -26,7 +26,7 @@ MyBatis-Plus | ORM框架 | https://mp.baomidou.com/
 ### 开发工具
 - IDEA
 ### 流程
-1. 修改application.yml配置文件
+###### 1. 修改application.yml配置文件
 ```yml
 spring:
   datasource:
@@ -37,12 +37,9 @@ wx:
   appId: #填写你自己的小程序appId
   secret: #填写你自己的小程序secret    
 ```
-2、使用你熟悉的MySql管理工具导入 `db` 文件下的 'video_mysql.sql'
+###### 2、使用你熟悉的MySql管理工具导入 `db` 文件下的 'video_mysql.sql'
+###### 3. IDEA启动项目
+###### 4. 浏览器访问 http://127.0.0.1:9092/
 
-3. IDEA启动项目
-
-4. 浏览器访问 http://127.0.0.1:9092/
-
-   
 ### 小程序源码
 [视频解析小程序端](https://github.com/zerox-v/remove-watermark)
