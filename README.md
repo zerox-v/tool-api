@@ -1,7 +1,7 @@
 ## 前言
 该项目是Java版本的短视频去水印服务端，包括用户签到、积分制度、解析各大短视频无水印视频链接等功能，后续我有时间会陆续加入更多功能
 ## 演示
-![小程序码](https://shop-img.ionic.fun/gh_f721ab07b5df_258.jpg)
+![小程序码](https://file.ionic.fun/gh_f721ab07b5df_258.jpg)
 ## 项目结构
 ```
 ToolApi
